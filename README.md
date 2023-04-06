@@ -1,2 +1,2 @@
-# go-ecommerce-cart
-Criando um projeto de ecommerce com golang
+# Go Ecommerce Cart
+Criando um projeto de ecommerce com Golang
