@@ -1,0 +1,3 @@
+comandos golang
+
+1° go mod init github.com/user/path
